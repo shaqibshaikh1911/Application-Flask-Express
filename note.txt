@@ -1,0 +1,12 @@
+To run frondend 
+CMD 
+-    cd frontend
+-    node server.js
+-    npm install express
+-    npm install node-fetch
+-    node server.js
+
+To run backend
+CMD
+-     cd backend
+-     python app.py
